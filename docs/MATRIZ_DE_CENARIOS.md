@@ -21,7 +21,6 @@ Legenda **Automatizar**: ✅ Automatizado nesta entrega · 🔍 Exploratório/ma
 | UI-06 | Validar responsividade básica | UI | P2 | ✅ (2 viewports: desktop/mobile) | Baixo custo de automação com `page.setViewportSize`, alto valor. |
 | UI-07 | Validar acessibilidade básica | UI | P3 | ✅ | Auditoria completa de acessibilidade está fora do escopo do case; checagem de `alt` incluída como smoke, auditoria profunda fica manual. |
 
-INCLUIR MANUAIS
 ---
 
 ## Cenários adicionais identificados (diferencial)
